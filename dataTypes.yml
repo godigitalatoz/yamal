@@ -1,0 +1,31 @@
+message: this is all in a single line
+---
+
+message:>
+this is
+all in 
+a single line
+
+---
+# write in multiple lines
+
+bio:|
+this all will
+be written 
+in different lines
+---
+booleanvalue: No
+
+# specify the data types
+
+zero: !!int 0
+positiveNum: !!int -45
+binary Num: !!int 0111
+
+marks: !!float 54.34
+alsofloat: 54.38
+
+#null
+surname: !!null Null
+alsonull: Null
+date: 0024-01-25T02:59:43.10U

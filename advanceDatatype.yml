@@ -1,0 +1,17 @@
+student: !!seq
+- marks
+- name
+- roll_no
+---
+
+
+name: godigitalatoz
+role:
+ age: 24
+ job: student
+ class: 10
+ 
+---
+pair example: 
+ - job: student
+ - job: teacher

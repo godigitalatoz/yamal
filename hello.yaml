@@ -1,0 +1,10 @@
+"apple" : "I am a red fruit"
+1 : "this is my roll number"
+
+# its a comment
+---
+cities:
+- lahore
+- karachi
+- gujrat
+---
